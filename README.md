@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning web crawlers and streaming
 - 📫 How to reach me: andrewgcardoso@gmail.com
 
-<article>
+<article style="display: grid; grid-template-columns: 1.5fr 1fr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andrew-Cardoso&show_icons=true&theme=omni&include_all_commits=true&count_private=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew-Cardoso&layout=compact&theme=omni" /> 
 </article>
