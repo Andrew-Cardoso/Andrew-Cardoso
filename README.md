@@ -8,7 +8,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andrew-Cardoso&show_icons=true&theme=omni&include_all_commits=true&count_private=true" />  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew-Cardoso&layout=compact&theme=omni" /> 
 </div>
-<div style="display: flex; align-itens: center; text-align: center;justify-content:center;"><br>
+<br>
+<div>
   <img align="center" alt="Andrew.html" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">  
   <img align="center" alt="Andrew.css" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
   <img align="center" alt="Andrew.sass" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
