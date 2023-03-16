@@ -45,3 +45,9 @@
 </div>
   
   
+<br>
+<br>
+<h6> Contact me </h6>
+<a href="href="https://wa.me/+5551994424232" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+
+  
